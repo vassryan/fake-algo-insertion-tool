@@ -1,6 +1,6 @@
 # fake-algo-insertion-tool
 
-This is actually a random program that I made in CSC2280. As I have not actuallly made an algorithm insertion tool, I am merely
+This is actually not an algorithm insertion tool. This is my solution to problem 731A on codeforces. As I have not actually made an algorithm insertion tool, I am merely
 
 making this repository as a placeholder. 
 
